@@ -55,7 +55,7 @@ const EditChannel = ({ setIsEditing }) => {
                 <p>Save Changes</p>
             </div>
         </div>
-    )
+    ) 
 }
 
 export default EditChannel
